@@ -1,4 +1,5 @@
 using FluentValidation;
+using TestTask.API;
 
 var builder = WebApplication.CreateBuilder(args);
 
